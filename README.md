@@ -1,2 +1,4 @@
 # dataManage
-manage and calculate data tables based on formulas
+Manage Excel data using Python Pandas 
+
+#used colab machine and Google drive for data 
